@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/AutoCityVideoPush.dir/src/main.cpp.o CMakeFiles/AutoCityVideoPush.dir/src/video_push.cpp.o -o bin/AutoCityVideoPush  /usr/lib/x86_64-linux-gnu/libavcodec.so /usr/lib/x86_64-linux-gnu/libavformat.so /usr/lib/x86_64-linux-gnu/libavfilter.so /usr/lib/x86_64-linux-gnu/libavutil.so 

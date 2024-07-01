@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/VideoPush.dir/src/main.cpp.o CMakeFiles/VideoPush.dir/src/video_push.cpp.o -o bin/VideoPush  /usr/lib/x86_64-linux-gnu/libavcodec.so /usr/lib/x86_64-linux-gnu/libavformat.so /usr/lib/x86_64-linux-gnu/libavfilter.so /usr/lib/x86_64-linux-gnu/libavutil.so 

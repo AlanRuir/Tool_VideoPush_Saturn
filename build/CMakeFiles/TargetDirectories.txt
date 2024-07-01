@@ -1,0 +1,3 @@
+/home/alan/Downloads/VideoPush/build/CMakeFiles/VideoPush.dir
+/home/alan/Downloads/VideoPush/build/CMakeFiles/edit_cache.dir
+/home/alan/Downloads/VideoPush/build/CMakeFiles/rebuild_cache.dir
